@@ -67,7 +67,6 @@ function playRound (humanChoice, computerChoice) {
     return win ? "YOU WIN!!!" : "YOU LOSE...";
 }
 
-
 function playGame() {
     let humanScore = 0;
     let computerScore = 0;
