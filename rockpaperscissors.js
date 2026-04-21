@@ -84,7 +84,7 @@ function playGame() {
     }
 
     console.log(`And the final score is!!!!! dumdumdumdumdum (this are supposed to be drums).`);
-    console.log(`Hooman: ${humanScore} Soon to be Overlord!! I mean... Computer: ${computerScore}`);
+    console.log(`Hooman: ${humanScore}   -   Soon to be Overlord!! I mean... Computer: ${computerScore}`);
     if (humanScore > computerScore) {
         console.log("YOU WON THE GAME!!!! =D");
     } else if (humanScore < computerScore) {
